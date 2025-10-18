@@ -1,7 +1,7 @@
 # League of Legends — Diamond Ranked Games Analysis
 
 Comprehensive analytical exploration of high-ranked (Diamond tier) *League of Legends* matches.  
-This project focuses on uncovering performance drivers, early-game indicators, and statistical factors that influence match outcomes using structured data analytics and predictive modeling .
+This project focuses on uncovering performance drivers, early-game indicators, and statistical factors that influence match outcomes using structured data analytics and predictive modeling techniques.
 
 ---
 
